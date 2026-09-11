@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Transformers: Rise of the Beasts",
+        "date_release": "07/06/2023",
+        "main_actor": "Anthony Ramos, Dominique Fishback",
+        "director": "Steven Caple Jr.",
+        "rating": "7.0"
+    },
+    {
+        "name": "Spider-Man: Across the Spider-Verse",
+        "date_release": "02/06/2023",
+        "main_actor": "Shameik Moore, Hailee Steinfeld",
+        "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "rating": "8.6"
+    },
+    {
+        "name": "Pro Player",
+        "date_release": "07/06/2026",
+        "main_actor": "Nguyen Duc Trong",
+        "director": "Nguyen Duc Trong",
+        "rating": "10.0"
+    }
+]
